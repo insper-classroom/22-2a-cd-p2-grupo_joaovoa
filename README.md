@@ -11,4 +11,4 @@ Luis Filippe Silva Gomes
 
 Stephani Pietra Ferreira Pereira
 
-O nosso trabalho consiste em fazer um programa capaz de deduzir o PIB per capita médio de alguns países com base em outras variáveis, como: ìndice de Gini, IDH, Expectativa de vida e Inflação.
+O nosso trabalho consiste em fazer um programa capaz de deduzir o PIB per capita médio de alguns países com base em outras variáveis, como: Índice de Gini, IDH, Expectativa de vida e Inflação.
